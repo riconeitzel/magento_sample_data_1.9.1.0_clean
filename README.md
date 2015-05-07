@@ -19,6 +19,6 @@ There's a second branch _compressed_ that contains the much harder compressed ve
 
 # Very close to useless
 
-There's a third branch _crashed_ that contains the 10% quality compressed versions of all these images. So the package might be even smaller while the graphics might look a heavy piece lossy.
+There's a third branch _crashed_ that contains the 10% quality compressed versions of all these images. So the package might be even smaller while the graphics might look a heavy piece lossy. I removed all downloable files too, which saves almost 80 MB.
 
 [Download this package here](https://github.com/riconeitzel/magento_sample_data_1.9.1.0_clean/archive/crashed.zip)
