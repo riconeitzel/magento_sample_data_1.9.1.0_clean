@@ -9,3 +9,9 @@ It's based on the default magento sample data packages available through [http:/
 * Used Photosweeper to identify and remove duplicate images + some handcrafted file renaming
 * Used JPEGmini to almost lossless compress all jpg files
 * Removed files that are not referenced in sql-dump
+
+# Even more space saved
+
+There's a second branch _compressed_ that contains the much harder compressed versions of all these images. So the package might be even smaller while the graphics might look a bit lossy.
+
+[Download this package here](https://github.com/Vinai/compressed-magento-sample-data/archive/compressed.zip)
